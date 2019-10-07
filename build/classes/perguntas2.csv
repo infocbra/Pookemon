@@ -1,0 +1,25 @@
+Todo aplicativo Java tem apenas um método main;VERDADEIRO;FALSO;Talvez;Será?
+Em Java, será retornado VERDADE se o valor de A e B forem verdadeiros, utilizando o operador; &&; ==; =!; =/
+O compilador cria bytecodes e os armazena em um arquivo com extensão...;.class;.java;.jar;.javac
+Em Java, um método do tipo void significa que;ele não retorna valor algum.;o método é uma função.;o método pertence à classe principal.;ele retorna o valor de uma variável.
+O arquivo fonte de uma classe em Java tem a extensão...;.java;.class;.jar;.javac
+São os valores passados aos métodos…;argumentos;parâmetros;-;-
+A declaração de uma classe Dog é…;public class Dog{;public Dog();interface Dog{;public static void main Dog{
+Em Java, são modificadores para controle de acesso aos atributos e métodos de uma classe:;public e private.;protected e static.;private e static.;final e static
+Métodos construtores sempre tem o mesmo nome da classe.;VERDADEIRO;FALSO;Talvez;Será?
+Um atributo que tenha o valor compartilhado por qualquer instância da classe é…;static;final;private;interface
+Cada classe só pode ter um método construtor.;FALSO;VERDADEIRO;Talvez;Será?
+O conceito que consiste em esconder atributos da classe deixando-os disponíveis só por métodos;encapsulamento;polimorfismo;herança;interface
+O atributo/método é acessado somente por membros da própria classe;private;public;protected;default
+Um método sem retorno (void) e com parâmetros que altera o valor de um ou mais atributos;set;get;let;drag
+Em Java não é possível...;herança múltipla;sobrecarga de métodos;encapsulamento;sobrescrita de métodos
+A palavra reservada que indica que a classe a ser especificada herda de outra classe;extends;implements;final;abstract
+Se o teste TEM-UM é positivo, temos o caso de...;delegação;herança;apadrinhação;disable
+Para uma classe não ser estendida por ninguém...;final;abstract;static;default
+A palavra reservada que indica que a classe a ser especificada implementa uma interface;implements;abstract;final;extends
+Conseguimos passar um gerente para um método que recebe funcionário, devido conceitos de...;polimorfismo;abstração;herança múltipla;anônima
+Uma interface pode ter tanto métodos abstratos quanto não abstratos;FALSO;VERDADEIRO;Talvez;Será?
+Quando você não quiser que uma classe seja instanciada (new) marque-a com...;abstract;concrect;protected;public
+Um método abstrato não tem corpo;VERDADEIRO;FALSO;Talvez;Será?
+Operador que retorna TRUE ou FALSE para saber se o objeto é mesmo daquele tipo de classe;instanceof;interface;new;return
+É possível ter classes dentro de classes em Java?;SIM;NÃO;Talvez;Será?
